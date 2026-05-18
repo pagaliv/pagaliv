@@ -66,14 +66,14 @@ En mis tiempos libres experimento con **computación cuántica** y disfruto cons
 ## 🚀 Proyectos destacados
 
 ### 🧾 Billing API — TFG
-> API REST para gestión de facturación. Diseñada con principios de arquitectura limpia, documentada con Doxygen y memoria técnica en LaTeX.
+> API REST para gestión de facturación. Diseñada con principios de arquitectura limpia, documentada con Doxygen y memoria técnica en LaTeX. Memoria publicada en mi perfil para mayor información.
 
-`REST API` `Backend` `SQL` `Docker` `Doxygen` `LaTeX`
+`REST API` `Backend` `LaTeX`
 
 ---
 
 ### 🎉 Servidor de cumpleaños
-> Aplicación web completa para gestionar un evento personal: invitados, confirmaciones y organización. Construida con Google Apps Script como backend y HTML/CSS/JS en el frontend.
+> Aplicación web completa para gestionar un evento personal: invitados, confirmaciones y organización. Construida con Google Apps Script como backend y HTML/CSS/JS en el frontend. Aún en privado para que mis amigos no tengan info aún.
 
 `Google Apps Script` `JavaScript` `HTML/CSS` `Web App`
 
