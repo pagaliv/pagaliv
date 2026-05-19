@@ -82,11 +82,7 @@ En mis tiempos libres experimento con **computación cuántica** y disfruto cons
 ## 📊 Estadísticas de GitHub
 
 
-<div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=pagaliv&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=es)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
