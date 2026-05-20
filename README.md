@@ -96,7 +96,7 @@ En mis tiempos libres experimento con **computación cuántica** y disfruto cons
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Escríbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablogvalverde@gmail.com)
+[![GitHub Streak](https://streak-stats.demolab.com?user=pagaliv)](https://git.io/streak-stats)
 
 </div>
 
