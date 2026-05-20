@@ -100,7 +100,7 @@ En mis tiempos libres experimento con **computación cuántica** y disfruto cons
 
 </div>
 
-</div>
+
 
 ---
 
