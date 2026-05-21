@@ -58,6 +58,7 @@ En mis tiempos libres experimento con **computación cuántica** y disfruto cons
 ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ### Explorando
+[![Arduino](https://img.shields.io/badge/Arduino-00878A?style=flat-square&logo=arduino&logoColor=white)](https://github.com/pagaliv/proyect-final-computadores-III)
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=ibm&logoColor=white)
 ![Quantum Computing](https://img.shields.io/badge/Quantum%20Computing-⚛️-blueviolet?style=flat-square)
 
