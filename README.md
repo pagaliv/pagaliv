@@ -108,3 +108,4 @@ En mis tiempos libres experimento con **computación cuántica** y disfruto cons
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=80&section=footer"/>
 </div>
+
