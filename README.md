@@ -6,6 +6,7 @@
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Computer+Engineering+student+%F0%9F%8E%93;Backend+%26+API+developer;Quantum+computing+enthusiast+%E2%9A%9B%EF%B8%8F;Always+learning+something+new+%F0%9F%93%9A)](https://git.io/typing-svg)
 
+
 <br/>
 
 <!-- Badges de redes -->
