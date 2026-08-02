@@ -54,7 +54,7 @@ En mis tiempos libres experimento con **computación cuántica** y disfruto cons
 ### Documentación & herramientas
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![Doxygen](https://img.shields.io/badge/Doxygen-2C4AA8?style=flat-square&logo=doxygen&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)(https://github.com/pagaliv/dudas_aarys)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat-square&logo=google&logoColor=white)
 
