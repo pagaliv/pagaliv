@@ -9,7 +9,7 @@
 
 <br/>
 
-<!-- Badges de redes -->
+<!-- Badges de redes --> 
 [![GitHub](https://img.shields.io/badge/GitHub-pagaliv-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pagaliv)
 [![Email](https://img.shields.io/badge/Email-Contacto-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pablogvalverde@gmail.com)
 
