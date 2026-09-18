@@ -3,6 +3,7 @@
 <!-- Banner animado con nombre -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=140&section=header&text=Pablo%20Galilea&fontSize=42&fontColor=58a6ff&fontAlignY=55&animation=fadeIn&desc=Computer%20Engineering%20%40%20Universidad%20de%20La%20Rioja&descColor=8b949e&descSize=16&descAlignY=75"/>
 
+
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Computer+Engineering+graduate+%F0%9F%8E%93;Backend+%26+API+developer;Quantum+computing+enthusiast+%E2%9A%9B%EF%B8%8F;Always+learning+something+new+%F0%9F%93%9A)](https://git.io/typing-svg)
 
