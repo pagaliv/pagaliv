@@ -1,89 +1,129 @@
- <div align="center">
- 
-<!-- Banner animado con nombre -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=140&section=header&text=Pablo%20Galilea&fontSize=42&fontColor=58a6ff&fontAlignY=55&animation=fadeIn&desc=Computer%20Engineering%20%40%20Universidad%20de%20La%20Rioja&descColor=8b949e&descSize=16&descAlignY=75"/>
+<div align="center">
 
+<!-- CITY-POP BANNER -->
+<a href="https://github.com/pagaliv">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.v9.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.v9.svg">
+    <img src="assets/banner-light.v9.svg" width="960" alt="Perfil de Pablo Galilea · Backend &amp; API Developer">
+  </picture>
+</a>
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Computer+Engineering+graduate+%F0%9F%8E%93;Backend+%26+API+developer;Quantum+computing+enthusiast+%E2%9A%9B%EF%B8%8F;Always+learning+something+new+%F0%9F%93%9A)](https://git.io/typing-svg)
+<img src="https://komarev.com/ghpvc/?username=pagaliv&style=flat&color=b99af0&label=profile+views" alt="profile views">
 
+<br><br>
 
-<br/>
-
-<!-- Badges de redes --> 
-[![GitHub](https://img.shields.io/badge/GitHub-pagaliv-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pagaliv)
-[![Email](https://img.shields.io/badge/Email-Contacto-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pablogvalverde@gmail.com)
+<a href="#es"><img src="https://img.shields.io/badge/🇪🇸_Español-leer_en_español-b99af0?style=for-the-badge" alt="Versión en español"></a>&nbsp;&nbsp;
+<a href="#en"><img src="https://img.shields.io/badge/🇬🇧_English-read_in_english-76d8d2?style=for-the-badge" alt="English version"></a>
 
 </div>
 
 ---
 
-## 👋 Sobre mí
+<a id="es"></a>
 
-Estudiante de **Ingeniería Informática** en la [Universidad de La Rioja](https://www.unirioja.es/), a punto de terminar el grado. Me apasiona el desarrollo backend, el diseño de APIs y la documentación técnica de calidad.
+<div align="center">
 
-Actualmente finalizando mi **TFG** sobre una API de billing, donde aplico principios de arquitectura REST, diseño de bases de datos y documentación profesional con herramientas como Doxygen y LaTeX.
+## 🇪🇸 Versión en español
 
-En mis tiempos libres experimento con **computación cuántica** y disfruto construyendo proyectos propios de cero a producción.
+<sub>[saltar a la versión en inglés ↓](#en)</sub>
 
-- 🎓 **Grado**: Ingeniería Informática — Universidad de La Rioja
-- 🔭 **TFG**: API de billing (arquitectura REST + documentación técnica)
-- 🛠️ **Proyecto personal**: Servidor de gestión para evento con Google Apps Script, HTML/CSS/JS
-- ⚛️ **Explorando**: Computación cuántica y programación en QPUs
-- 📄 **Documentación**: LaTeX · Doxygen · Markdown
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=F78CA0&center=true&vCenter=true&width=900&lines=Pablo+Galilea+%E2%80%94+Backend+%26+API+Developer%3BIngenier%C3%ADa+Inform%C3%A1tica+%40+Universidad+de+La+Rioja%3BREST+APIs+%7C+Datos+%7C+Documentaci%C3%B3n+t%C3%A9cnica%3BTFG%3A+API+de+billing+%E2%80%A2+Computaci%C3%B3n+cu%C3%A1ntica" alt="Typing SVG en español">
+</p>
+
+### `$ whoami`
+
+<p align="center">
+  <img src="assets/whoami-citypop-es.svg" width="960" alt="Terminal city-pop con el perfil de Pablo Galilea">
+</p>
+
+<br>
+
+<div align="center">
+
+### `$ cat tech-stack.yaml`
+
+<table border="1" cellpadding="14" bgcolor="#17171c">
+  <thead>
+    <tr>
+      <th colspan="2" align="left"><code>pagaliv:~$ cat tech-stack.yaml</code></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="50%" valign="top"><code>├─ ✦ lenguajes:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=nodejs,typescript,javascript,java,c,cpp" alt="Node.js, TypeScript, JavaScript, Java, C y C++"><br>
+        <sub><code>Node.js · TypeScript · JavaScript · Java · C · C++</code></sub>
+      </td>
+      <td width="50%" valign="top"><code>├─ ▣ bases_de_datos:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="PostgreSQL y MySQL"><br>
+        <sub><code>PostgreSQL · MySQL · SQL</code></sub>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top"><code>├─ ⚙ contenedores_y_control_versiones:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=docker,kubernetes,git" alt="Docker, Kubernetes y Git"><br>
+        <sub><code>Docker · Kubernetes · Git</code></sub>
+      </td>
+      <td valign="top"><code>├─ ◉ documentacion:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=latex,markdown" alt="LaTeX y Markdown"><br>
+        <sub><code>LaTeX · Doxygen · Markdown · Google Apps Script</code></sub>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" valign="top"><code>╰─ ⌁ explorando:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=arduino,python" alt="Arduino y Python"><br>
+        <sub><code>Qiskit · Computación cuántica · Ciencia de datos · Agentes de IA</code></sub>
+      </td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td colspan="2"><code>status: terminando_grado&nbsp;&nbsp;·&nbsp;&nbsp;environment: TFG</code></td>
+    </tr>
+  </tfoot>
+</table>
+
+</div>
 
 ---
 
-## 🛠️ Stack tecnológico
+### `$ cat skills-radar.log`
 
-### Lenguajes
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/pagaliv/generador-qr)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/pagaliv/Trabajo-Sistemas-Distribuidos)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
+    <img src="assets/radar-light.svg" width="460" alt="Radar de habilidades de Pablo Galilea">
+  </picture>
+</p>
 
-### Bases de datos & DevOps
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/pagaliv/Curso-Docker-Kubernetes-1)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
-### Documentación & herramientas
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
-![Doxygen](https://img.shields.io/badge/Doxygen-2C4AA8?style=flat-square&logo=doxygen&logoColor=white)
-[![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)](https://github.com/pagaliv/dudas_aarys) 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat-square&logo=google&logoColor=white)
-
-### Explorando
-[![Arduino](https://img.shields.io/badge/Arduino-00878A?style=flat-square&logo=arduino&logoColor=white)](https://github.com/pagaliv/proyect-final-computadores-III)
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=ibm&logoColor=white)
-![Quantum Computing](https://img.shields.io/badge/Quantum%20Computing-⚛️-blueviolet?style=flat-square)
+<p align="center"><sub><code>signals: backend_skill_radar · self_rated · status: healthy</code></sub></p>
 
 ---
 
-## 🚀 Proyectos destacados
+### `$ ls proyectos/ --destacados`
 
-### 🧾 Billing API — TFG
+**🧾 Billing API — TFG**
 > API REST para gestión de facturación. Diseñada con principios de arquitectura limpia, documentada con Doxygen y memoria técnica en LaTeX. Memoria publicada en mi perfil para mayor información.
 
 `REST API` `Backend` `LaTeX`
 
----
+<br>
 
-### 🎉 Servidor de cumpleaños
+**🎉 Servidor de cumpleaños**
 > Aplicación web completa para gestionar un evento personal: invitados, confirmaciones y organización. Construida con Google Apps Script como backend y HTML/CSS/JS en el frontend. Aún en privado para que mis amigos no tengan info aún.
 
 `Google Apps Script` `JavaScript` `HTML/CSS` `Web App`
 
 ---
 
-## 📊 Estadísticas de GitHub
-
+### `$ git log --stats`
 
 <div align="center">
 
@@ -93,21 +133,165 @@ En mis tiempos libres experimento con **computación cuántica** y disfruto cons
 
 ---
 
-## 📫 Contacto
-
-¿Tienes una oportunidad interesante o simplemente quieres hablar de tecnología? Estoy abierto a ello.
+### `$ connect --contacto`
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Escríbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablogvalverde@gmail.com)
+<a href="https://www.linkedin.com/in/pablo-galilea-5a0940296/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>&nbsp;&nbsp;
+<a href="mailto:pablogvalverde@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Escríbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>&nbsp;&nbsp;
+<a href="https://github.com/pagaliv">
+  <img src="https://img.shields.io/badge/GitHub-pagaliv-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 
 </div>
 
+<br>
 
+<div align="center"><sub><a href="#en">🇬🇧 Switch to English ↑</a></sub></div>
+
+---
+
+<a id="en"></a>
+
+<div align="center">
+
+## 🇬🇧 English version
+
+<sub>[jump to the Spanish version ↓](#es)</sub>
+
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=77C8F0&center=true&vCenter=true&width=900&lines=Pablo+Galilea+%E2%80%94+Backend+%26+API+Developer%3BComputer+Engineering+%40+Universidad+de+La+Rioja%3BREST+APIs+%7C+Data+%7C+Technical+documentation%3BThesis%3A+Billing+API+%E2%80%A2+Quantum+computing" alt="Typing SVG in English">
+</p>
+
+### `$ whoami`
+
+<p align="center">
+  <img src="assets/whoami-citypop-en.svg" width="960" alt="City-pop terminal card with Pablo Galilea's profile">
+</p>
+
+<br>
+
+<div align="center">
+
+### `$ cat tech-stack.yaml`
+
+<table border="1" cellpadding="14" bgcolor="#17171c">
+  <thead>
+    <tr>
+      <th colspan="2" align="left"><code>pagaliv:~$ cat tech-stack.yaml</code></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="50%" valign="top"><code>├─ ✦ languages:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=nodejs,typescript,javascript,java,c,cpp" alt="Node.js, TypeScript, JavaScript, Java, C and C++"><br>
+        <sub><code>Node.js · TypeScript · JavaScript · Java · C · C++</code></sub>
+      </td>
+      <td width="50%" valign="top"><code>├─ ▣ databases:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="PostgreSQL and MySQL"><br>
+        <sub><code>PostgreSQL · MySQL · SQL</code></sub>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top"><code>├─ ⚙ containers_and_versioning:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=docker,kubernetes,git" alt="Docker, Kubernetes and Git"><br>
+        <sub><code>Docker · Kubernetes · Git</code></sub>
+      </td>
+      <td valign="top"><code>├─ ◉ documentation:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=latex,markdown" alt="LaTeX and Markdown"><br>
+        <sub><code>LaTeX · Doxygen · Markdown · Google Apps Script</code></sub>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" valign="top"><code>╰─ ⌁ exploring:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=arduino,python" alt="Arduino and Python"><br>
+        <sub><code>Qiskit · Quantum computing · Data science · AI agents</code></sub>
+      </td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td colspan="2"><code>status: finishing_degree&nbsp;&nbsp;·&nbsp;&nbsp;environment: thesis</code></td>
+    </tr>
+  </tfoot>
+</table>
+
+</div>
+
+---
+
+### `$ cat skills-radar.log`
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
+    <img src="assets/radar-light.svg" width="460" alt="Pablo Galilea's skill radar">
+  </picture>
+</p>
+
+<p align="center"><sub><code>signals: backend_skill_radar · self_rated · status: healthy</code></sub></p>
+
+<p align="center"><sub>axis labels are in Spanish (self-rated source data)</sub></p>
+
+---
+
+### `$ ls projects/ --featured`
+
+**🧾 Billing API — Thesis (TFG)**
+> REST API for invoice and billing management. Designed with clean architecture principles, documented with Doxygen and a full technical report in LaTeX. The report is published on my profile for more details.
+
+`REST API` `Backend` `LaTeX`
+
+<br>
+
+**🎉 Birthday event server**
+> Full web app to manage a personal event: guests, RSVPs and logistics. Built with Google Apps Script as the backend and HTML/CSS/JS on the frontend. Still private so my friends don't get spoiled.
+
+`Google Apps Script` `JavaScript` `HTML/CSS` `Web App`
+
+---
+
+### `$ git log --stats`
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=pagaliv&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=en)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+### `$ connect --contact`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/pablo-galilea-5a0940296/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>&nbsp;&nbsp;
+<a href="mailto:pablogvalverde@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say_hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>&nbsp;&nbsp;
+<a href="https://github.com/pagaliv">
+  <img src="https://img.shields.io/badge/GitHub-pagaliv-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+</div>
+
+<br>
+
+<div align="center"><sub><a href="#es">🇪🇸 Cambiar a español ↑</a></sub></div>
 
 ---
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=80&section=footer"/>
+<sub>Hecho con 💖 desde La Rioja, España · @pagaliv</sub>
 </div>
-

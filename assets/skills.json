@@ -1,0 +1,34 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Self-rated, 0-100. Edit these and re-run scripts/radar.py to redraw.",
+  "axes": [
+    {
+      "label": "Documentacion (LaTeX/Doxygen)",
+      "value": 90
+    },
+    {
+      "label": "Backend & API REST",
+      "value": 80
+    },
+    {
+      "label": "Bases de datos",
+      "value": 80
+    },
+    {
+      "label": "Ciencia de Datos",
+      "value": 75
+    },
+    {
+      "label": "Automatizacion",
+      "value": 75
+    },
+    {
+      "label": "IA y Agentes",
+      "value": 70
+    },
+    {
+      "label": "Analisis de datos",
+      "value": 45
+    }
+  ]
+}
