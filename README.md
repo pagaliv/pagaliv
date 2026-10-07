@@ -47,12 +47,12 @@
         <a href="https://github.com/pagaliv/Trabajo-Sistemas-Distribuidos"><img src="https://skillicons.dev/icons?i=java" alt="Java"></a>
         <img src="https://skillicons.dev/icons?i=c" alt="C">
         <a href="https://github.com/pagaliv/Tecnologia_prog1"><img src="https://skillicons.dev/icons?i=cpp" alt="C++"></a>
-        <img src="https://img.shields.io/badge/Assembly-444444?style=flat-square" alt="Assembly">
+        <img src="assets/icons/assembly.png" width="48" height="48" alt="Assembly">
       </td>
       <td width="50%" valign="top"><code>├─ ▣ databases:</code><br><br>
         <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL">
         <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL">
-        <img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square" alt="SQL">
+        <img src="assets/icons/sql.png" width="48" height="48" alt="SQL">
       </td>
     </tr>
     <tr>
@@ -63,17 +63,17 @@
       </td>
       <td valign="top"><code>├─ ◉ documentation:</code><br><br>
         <a href="https://github.com/pagaliv/pablogalileavalverde-TFG"><img src="https://skillicons.dev/icons?i=latex" alt="LaTeX"></a>
-        <a href="https://github.com/pagaliv/pablogalileavalverde-TFG"><img src="https://img.shields.io/badge/Doxygen-2C4AA8?style=flat-square&logo=doxygen&logoColor=white" alt="Doxygen"></a>
+        <a href="https://github.com/pagaliv/pablogalileavalverde-TFG"><img src="assets/icons/doxygen.png" width="48" height="48" alt="Doxygen"></a>
         <a href="https://github.com/pagaliv/dudas_metodos"><img src="https://skillicons.dev/icons?i=markdown" alt="Markdown"></a>
-        <img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Apps Script">
+        <img src="assets/icons/google-apps-script.png" width="48" height="48" alt="Google Apps Script">
       </td>
     </tr>
     <tr>
       <td colspan="2" valign="top"><code>╰─ ⌁ exploring:</code><br><br>
         <a href="https://github.com/pagaliv/proyect-final-computadores-III"><img src="https://skillicons.dev/icons?i=arduino" alt="Arduino"></a>
-        <img src="https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white" alt="Qiskit">
-        <img src="https://img.shields.io/badge/Quantum%20Computing-⚛️-blueviolet?style=flat-square" alt="Quantum Computing">
-        <img src="https://img.shields.io/badge/AI%20Agents-10A37F?style=flat-square" alt="AI Agents">
+        <img src="assets/icons/qiskit.png" width="48" height="48" alt="Qiskit">
+        <img src="assets/icons/quantum-computing.png" width="48" height="48" alt="Quantum Computing">
+        <img src="assets/icons/ai-agents.png" width="48" height="48" alt="AI Agents">
       </td>
     </tr>
   </tbody>
