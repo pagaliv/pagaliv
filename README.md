@@ -40,28 +40,40 @@
   <tbody>
     <tr>
       <td width="50%" valign="top"><code>├─ ✦ data_&amp;_languages:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=python,nodejs,typescript,javascript,java" alt="Python, Node.js, TypeScript, JavaScript and Java"><br>
-        <sub><code>Python · Node.js · TypeScript · JavaScript · Java</code></sub>
+        <a href="https://github.com/pagaliv/generador-qr"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"></a>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+        <a href="https://github.com/pagaliv/letterboxd-client-main"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"></a>
+        <a href="https://github.com/pagaliv/bodega_galeon"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></a>
+        <a href="https://github.com/pagaliv/Trabajo-Sistemas-Distribuidos"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"></a>
+        <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
+        <a href="https://github.com/pagaliv/Tecnologia_prog1"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"></a>
+        <img src="https://img.shields.io/badge/Assembly-444444?style=flat-square" alt="Assembly">
       </td>
       <td width="50%" valign="top"><code>├─ ▣ databases:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="PostgreSQL and MySQL"><br>
-        <sub><code>PostgreSQL · MySQL · SQL</code></sub>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+        <img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square" alt="SQL">
       </td>
     </tr>
     <tr>
       <td valign="top"><code>├─ ⚙ containers_and_versioning:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=docker,kubernetes,git" alt="Docker, Kubernetes and Git"><br>
-        <sub><code>Docker · Kubernetes · Git</code></sub>
+        <a href="https://github.com/pagaliv/Curso-Docker-Kubernetes-1"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"></a>
+        <a href="https://github.com/pagaliv/Curso-Docker-Kubernetes-1"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"></a>
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
       </td>
       <td valign="top"><code>├─ ◉ documentation:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=latex,markdown" alt="LaTeX and Markdown"><br>
-        <sub><code>LaTeX · Doxygen · Markdown · Google Apps Script</code></sub>
+        <a href="https://github.com/pagaliv/pablogalileavalverde-TFG"><img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX"></a>
+        <a href="https://github.com/pagaliv/pablogalileavalverde-TFG"><img src="https://img.shields.io/badge/Doxygen-2C4AA8?style=flat-square&logo=doxygen&logoColor=white" alt="Doxygen"></a>
+        <a href="https://github.com/pagaliv/dudas_metodos"><img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown"></a>
+        <img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Apps Script">
       </td>
     </tr>
     <tr>
       <td colspan="2" valign="top"><code>╰─ ⌁ exploring:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino"><br>
-        <sub><code>Qiskit · Quantum computing · AI agents</code></sub>
+        <a href="https://github.com/pagaliv/proyect-final-computadores-III"><img src="https://img.shields.io/badge/Arduino-00878A?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"></a>
+        <img src="https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white" alt="Qiskit">
+        <img src="https://img.shields.io/badge/Quantum%20Computing-⚛️-blueviolet?style=flat-square" alt="Quantum Computing">
+        <img src="https://img.shields.io/badge/AI%20Agents-10A37F?style=flat-square" alt="AI Agents">
       </td>
     </tr>
   </tbody>
