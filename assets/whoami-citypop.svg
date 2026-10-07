@@ -33,10 +33,10 @@
   <text x="166" y="225" fill="#9de4d1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">solid APIs, flawless documentation</text>
 
   <text x="48" y="267" fill="#76d8d2" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="700">❯ ls expertise/</text>
-  <text x="48" y="299" fill="#f3a0b5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">backend/</text>
-  <text x="214" y="299" fill="#b8b9ca" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">Node.js · TypeScript · Java</text>
-  <text x="48" y="326" fill="#f3a0b5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">data-ai/</text>
-  <text x="214" y="326" fill="#b8b9ca" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">Python · Data Science · AI Agents</text>
+  <text x="48" y="299" fill="#f3a0b5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">data-ai/</text>
+  <text x="214" y="299" fill="#b8b9ca" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">Python · Data Science · AI Agents</text>
+  <text x="48" y="326" fill="#f3a0b5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">backend/</text>
+  <text x="214" y="326" fill="#b8b9ca" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">Node.js · TypeScript · Java</text>
 
   <rect x="651" y="78" width="280" height="271" rx="9" fill="#1d1d23" stroke="#b99af0" stroke-width="1.5"/>
   <text x="674" y="111" fill="#f3d29b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">city-pop runtime</text>

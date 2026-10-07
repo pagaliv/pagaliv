@@ -5,13 +5,13 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.v9.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.v9.svg">
-    <img src="assets/banner-light.v9.svg" width="960" alt="Pablo Galilea's profile · Backend &amp; API Developer">
+    <img src="assets/banner-light.v9.svg" width="960" alt="Pablo Galilea's profile · Data Scientist">
   </picture>
 </a>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=F78CA0&center=true&vCenter=true&width=900&lines=Pablo+Galilea+%E2%80%94+Backend+%26+API+Developer%3BComputer+Engineering+%40+Universidad+de+La+Rioja%3BREST+APIs+%7C+Data+%7C+Technical+documentation%3BThesis%3A+Billing+API+%E2%80%A2+Quantum+computing" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=F78CA0&center=true&vCenter=true&width=900&lines=Pablo+Galilea+%E2%80%94+Data+Scientist%3BComputer+Engineering+%40+Universidad+de+La+Rioja%3BData+Science+%7C+AI+Agents+%7C+REST+APIs%3BThesis%3A+Billing+API+%E2%80%A2+Quantum+computing" alt="Typing SVG">
 
 <img src="https://komarev.com/ghpvc/?username=pagaliv&style=flat&color=b99af0&label=profile+views" alt="profile views">
 
@@ -39,9 +39,9 @@
   </thead>
   <tbody>
     <tr>
-      <td width="50%" valign="top"><code>├─ ✦ languages:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=nodejs,typescript,javascript,java,c,cpp" alt="Node.js, TypeScript, JavaScript, Java, C and C++"><br>
-        <sub><code>Node.js · TypeScript · JavaScript · Java · C · C++</code></sub>
+      <td width="50%" valign="top"><code>├─ ✦ data_&amp;_languages:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=python,nodejs,typescript,javascript,java" alt="Python, Node.js, TypeScript, JavaScript and Java"><br>
+        <sub><code>Python · Node.js · TypeScript · JavaScript · Java</code></sub>
       </td>
       <td width="50%" valign="top"><code>├─ ▣ databases:</code><br><br>
         <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="PostgreSQL and MySQL"><br>
@@ -60,8 +60,8 @@
     </tr>
     <tr>
       <td colspan="2" valign="top"><code>╰─ ⌁ exploring:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=arduino,python" alt="Arduino and Python"><br>
-        <sub><code>Qiskit · Quantum computing · Data science · AI agents</code></sub>
+        <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino"><br>
+        <sub><code>Qiskit · Quantum computing · AI agents</code></sub>
       </td>
     </tr>
   </tbody>
@@ -86,7 +86,7 @@
   </picture>
 </p>
 
-<p align="center"><sub><code>signals: backend_skill_radar · self_rated · status: healthy</code></sub></p>
+<p align="center"><sub><code>signals: data_skill_radar · self_rated · status: healthy</code></sub></p>
 
 ---
 
