@@ -183,9 +183,9 @@ def floyd_steinberg(gray: np.ndarray) -> np.ndarray:
 def portrait_points(theme: str, rng: np.random.Generator) -> np.ndarray:
     """Return sampled x/y banner coordinates from a 300x340 dither grid."""
     source = Image.open(SOURCE).convert("RGBA")
-    # Tighter head + shoulders crop so face detail fills the VISUAL.MAP frame.
+    # Wider head + shoulders crop so the portrait doesn't feel too zoomed-in.
     w, h = source.size
-    crop_w = int(w * 0.60)
+    crop_w = int(w * 0.85)
     crop_h = int(crop_w * (340 / 300))
     left = (w - crop_w) // 2
     top = int(h * 0.08)

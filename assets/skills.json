@@ -3,31 +3,31 @@
   "_comment": "Self-rated, 0-100. Edit these and re-run scripts/radar.py to redraw.",
   "axes": [
     {
-      "label": "Documentacion (LaTeX/Doxygen)",
+      "label": "Documentation (LaTeX/Doxygen)",
       "value": 90
     },
     {
-      "label": "Backend & API REST",
+      "label": "Backend & REST APIs",
       "value": 80
     },
     {
-      "label": "Bases de datos",
+      "label": "Databases",
       "value": 80
     },
     {
-      "label": "Ciencia de Datos",
+      "label": "Data Science",
       "value": 75
     },
     {
-      "label": "Automatizacion",
+      "label": "Automation",
       "value": 75
     },
     {
-      "label": "IA y Agentes",
+      "label": "AI & Agents",
       "value": 70
     },
     {
-      "label": "Analisis de datos",
+      "label": "Data Analysis",
       "value": 45
     }
   ]
