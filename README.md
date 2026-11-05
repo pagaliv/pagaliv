@@ -120,10 +120,7 @@
 
 [Spoty Stats Data Science Proyect ](https://github.com/pagaliv/spotify-data-science)
 > Comparative data science project analyzing Spotify streaming history between two users, featuring structured hypothesis testing, EDA, and reproducible CSV datasets.
-##  Authors & Collaborators
-
-This project was developed collaboratively by:
-
+####  Authors & Collaborators
 - **Pablo Galilea** - *Data Analysis, EDA & Modeling* - [@pagaliv](https://github.com/pagaliv)
 - **Jorge Jiménez** - *Data Collection* - [@jorgejimene](https://github.com/jorgejimene)
 
