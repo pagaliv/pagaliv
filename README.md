@@ -111,7 +111,7 @@
 
 <br>
 
-** Birthday event server**
+**Birthday event server**
 > Full web app to manage a personal event: guests, RSVPs and logistics. Built with Google Apps Script as the backend and HTML/CSS/JS on the frontend. Still private so my friends don't get spoiled.
 
 `Google Apps Script` `JavaScript` `HTML/CSS` `Web App`
@@ -120,6 +120,12 @@
 
 [Spoty Stats Data Science Proyect ](https://github.com/pagaliv/spotify-data-science)
 > Comparative data science project analyzing Spotify streaming history between two users, featuring structured hypothesis testing, EDA, and reproducible CSV datasets.
+##  Authors & Collaborators
+
+This project was developed collaboratively by:
+
+- **Pablo Galilea** - *Data Analysis, EDA & Modeling* - [@pagaliv](https://github.com/pagaliv)
+- **Jorge Jiménez** - *Data Collection* - [@jorgejimene](https://github.com/jorgejimene)
 
 `Python` `LaTex` `Data Science`
 
