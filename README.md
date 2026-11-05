@@ -118,7 +118,7 @@
 
 <br>
 
-** Spoty Stats Data Science Proyect **
+[** Spoty Stats Data Science Proyect **](https://github.com/pagaliv/spotify-data-science)
 > Comparative data science project analyzing Spotify streaming history between two users, featuring structured hypothesis testing, EDA, and reproducible CSV datasets.
 
 `Python` `LaTex` `Data Science`
