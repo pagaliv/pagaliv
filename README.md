@@ -104,17 +104,24 @@
 
 ## `$ ls projects/ --featured`
 
-**🧾 Billing API — Thesis (TFG)**
+** Billing API — Thesis (TFG)**
 > REST API for invoice and billing management. Designed with clean architecture principles, documented with Doxygen and a full technical report in LaTeX. The report is published on my profile for more details.
 
 `REST API` `Backend` `LaTeX`
 
 <br>
 
-**🎉 Birthday event server**
+** Birthday event server**
 > Full web app to manage a personal event: guests, RSVPs and logistics. Built with Google Apps Script as the backend and HTML/CSS/JS on the frontend. Still private so my friends don't get spoiled.
 
 `Google Apps Script` `JavaScript` `HTML/CSS` `Web App`
+
+<br>
+
+** Spoty Stats Data Science Proyect **
+> Comparative data science project analyzing Spotify streaming history between two users, featuring structured hypothesis testing, EDA, and reproducible CSV datasets.
+
+`Python` `LaTex` `Data Science`
 
 ---
 
