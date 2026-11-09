@@ -1,5 +1,4 @@
 <div align="center">
-   
 <!-- CITY-POP BANNER -->
 <a href="https://github.com/pagaliv">
   <picture>
